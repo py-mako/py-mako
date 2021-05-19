@@ -2,6 +2,12 @@
 <h1 align=center> Environmental Geologist, GIS specialist and Data Scientist in making </h1>
 <br>
 
+As Alan Turing said:
+
+> “Those who can imagine anything, can create the impossible.”
+
+<br>
+
 - 👀 I’m interested in fun and interesting Data Science projects which involve spatial :earth_africa:	and satellite data :artificial_satellite:. Also open to any ML, DL, NN project in Python.
 
 - 🌱 I’m currently learning Java programming language and Data Science at [Brainster Data Science Bootcamp](https://brainster.io/vienna) and all the topics which go with it:
