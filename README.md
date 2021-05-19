@@ -1,5 +1,5 @@
 
-<h1 align=center> Hi, I’m py-mako a GIS specialist and Data Scientist in making </h1>
+<h1 align=center> GIS specialist and Data Scientist in making </h1>
 <br>
 
 - 👀 I’m interested in fun and interesting Data Science projects which involve spatial :earth_africa:	and satellite data :artificial_satellite:. Also open to any ML, DL, NN project in Python.
