@@ -1,5 +1,5 @@
 
-<h1 align=center> Environmental Geologist, GIS specialist and Data Scientist in making </h1>
+<h1 align=center> Environmental Geologist, GIS specialist, Data Enigneer and aspiring Data Scientist </h1>
 <br>
 
 As Alan Turing said:
