@@ -8,10 +8,13 @@ As Alan Turing said:
 
 <br>
 
-- 👀 I’m interested in fun and interesting Data Science projects which involve spatial :earth_africa:	and satellite data :artificial_satellite:. Also open to any ML, DL, NN project in Python.
+- 👀 I’m interested in fun and interesting Data Engineering and Data Science projects. Also open to any ML, DL, NN project in Python and spatial :earth_africa:	and satellite data :artificial_satellite: usage. Recently I am more focused on Data Engineering topics and technologies.
 
-- 🌱 I’m currently learning Java programming language and Data Science at [Brainster Data Science Bootcamp](https://brainster.io/vienna) and all the topics which go with it:
+- 🌱 Started learning Java programming language and am interested in all Data Engineering tools.
+
+-  I have finished Data Science bootcamp at [Brainster Data Science Bootcamp](https://brainster.io/vienna) and [Applied Data Science I: Scientific Computing & Python](https://www.credly.com/org/wqu/badge/applied-data-science-i-scientific-computing-python-with-honors) at WorldQuant University.
   * SQL databases
+  * APIs
   * Python
   * Maths and Stats 
   * Machine Learning
